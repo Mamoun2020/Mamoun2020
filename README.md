@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mamoun2020.mamoun2020)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Mamoun2020.Mamoun2020)
 
-![Mamoun Abu Salah's github stats](https://github-readme-stats.vercel.app/api?username=mamoun2020)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamoun2020&" alt="mamoun2020" /></p>
+![Mamoun Abu Salah's github stats](https://github-readme-stats.vercel.app/api?username=Mamoun2020)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mamoun2020&" alt="mamoun2020" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
