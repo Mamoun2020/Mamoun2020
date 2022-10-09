@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mamoun2020.mamoun2020)
 
-![ismailaamassi's github stats](https://github-readme-stats.vercel.app/api?username=mamoun2020)
+![Mamoun Abu Salah's github stats](https://github-readme-stats.vercel.app/api?username=mamoun2020)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamoun2020&" alt="mamoun2020" /></p>
 
 
@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> -->
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ismailaamassi&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Mamoun2020&theme=dracula&color=B994E6&bg_color=2B2D3D" />
