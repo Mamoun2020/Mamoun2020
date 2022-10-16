@@ -18,7 +18,6 @@
 </a>
 
 ### Languages
-
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![Php](https://img.shields.io/badge/-Php-000?&logo=Php)
@@ -26,7 +25,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Technologies
-
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 
