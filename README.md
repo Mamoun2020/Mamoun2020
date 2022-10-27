@@ -13,9 +13,9 @@
 <a href="https://github-readme-stats.vercel.app/api?username=Mamoun2020&count_private=true&show_icons=true&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mamoun2020&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-<a href="https://github.com/m0rp43us">
+<!-- <a href="https://github.com/m0rp43us">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mamoun2020&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+</a> -->
 
 ### Languages
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
